@@ -1,4 +1,4 @@
-**# Han Gao first homework**
+# Han Gao's First Homework
 
 ## Welcome to GitHub Pages
 
