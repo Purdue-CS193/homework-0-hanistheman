@@ -1,4 +1,4 @@
-**#Heading for my first homework**
+**Heading for my first homework**
 
 ## Welcome to GitHub Pages
 
